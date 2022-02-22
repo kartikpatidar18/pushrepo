@@ -1,0 +1,276 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bgimage{
+    background-image: url(/image/ate.jpg);
+    background-size: 100% 110%;
+    width: 100%;
+    height: 100vh;
+    
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    /* background-color: black; */
+
+}
+.leftmenu{
+    width: 22%;
+    line-height: 100px;
+    float: left;
+    /* background-color: yellow; */
+}
+.leftmenu h4{
+    padding-left: 70px;
+    font-weight: bold;
+    color: red;
+    font-size: 22px;
+    font-family:sans-serif;
+}
+.rightmenu{
+
+    width: 75%;
+    height: 100px;
+    float: right;
+    /* background-color: red; */
+}
+.rightmenu ul{
+    margin-left: 200px;
+}
+.rightmenu ul li{
+    font-family:sans-serif;
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+#firstlist{
+    color: orange;
+}
+.rightmenu ul li:hover{
+    color: orange;
+}
+
+.text{
+    /* width: 100%; */
+    /* margin-top: 185px; */
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+.text h4{
+    font-size: 14px;
+    font-family: sans-serif;
+    /* margin-top: 185px; */
+    margin: 14px;
+} 
+.text h4:hover{
+    color: red;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
+
+.contain{
+    /* margin-top: 10px; */
+    width: 100%;
+    background-color: black;
+}
+.leftcontain {
+float: left;   
+width: 50%; 
+background-color: black;
+color: white;
+}
+
+.rightcontain {
+    float: left;
+    width: 50%;
+    text-align: justify;
+    background-color: black;
+color: white;
+    
+}
+.leftcontain p{
+    float: left;
+    text-align: justify;
+ 
+}
+.rightcontain p{
+    float: left;
+    
+}
+
+.simple
+{
+    /* margin-left: 250px; */
+    background-color: greenyellow;
+    color: hotpink;
+}
+
+.simple ul li{
+    font-family:sans-serif;
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    /* background-color: transparent;  */
+}
+.simple ul li:hover{
+    color:blue;
+}
+
+.container{
+    background-color: red;
+    color:green;
+}
+
+.container h4{
+    margin-left: 70px;
+    width: 100%;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 14px;
+    
+}
+.leftcontainer{
+    float: left;
+    background-color: transparent;
+    width: 50%;
+}
+.rightcontainer{
+    width: 50%;
+    float: left;
+    background-color: transparent;
+}
+.footer{
+    display: inline-block;
+    /* margin-top: 40px; */
+    list-style: none;
+    background-color:green;
+    color: grey;
+    padding: 0 200px;
+    margin: 0;
+    
+    box-sizing: border-box;
+    
+}
+
+.footer1{
+    width: 25%;
+    float: left;
+    /* background-color: blanchedalmond; */
+    
+    
+}
+.footer2{
+    width: 25%;
+    float: left;
+    list-style: none;
+    display: inline-block;
+}
+.footer3{
+    width: 25%;
+    float: left;
+    display: inline-block;
+    
+    list-style: none;
+}
+.footer4{
+    width: 25%;
+    float: left
+}
+.footer2 ul{
+    list-style: none;
+}
+.footer3 ul {
+    list-style: none;
+}
+.footer1 h4{
+    font-size: 18px;
+    /* color: white; */
+    text-transform: capitalize;
+    position: relative;
+    margin-bottom: 15px;
+}
+.footer2 h4{
+    font-size: 18px;
+    /* color: white; */
+    text-transform: capitalize;
+    position: relative;
+    margin-bottom: 15px;
+}
+.footer3 h4{
+    font-size: 18px;
+    /* color: white; */
+    position: relative;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+.footer4 h4{
+    font-size: 18px;
+    /* color: white; */
+    position: relative;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+.last{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    background-color: hotpink;
+    color: green;
+    line-height: 15px;
+}
+
+.exact{
+    /* background-color: orangered; */
+    /* color: papayawhip; */
+}
+
+.top ul li{
+    font-family:sans-serif;
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
+
+.bottom{
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
